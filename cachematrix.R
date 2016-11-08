@@ -1,4 +1,4 @@
-## cache the inverse of a matrix
+## cache the inverse of a matrix.
 
 
 ## Create a special "matrix" object that can cache its inverse
